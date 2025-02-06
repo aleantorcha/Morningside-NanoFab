@@ -29,7 +29,7 @@
 
 1. machining for magnetron head (and design so that it fits self-contained on a KF50 flange)
    1. I would work from the Andrew Seltzman design
-2. design larger SPS chamber that can fit larger substrate (e.g. 4'' silicon wafer), and magnetron head / PLD target + QCM 
+2. design larger PLD chamber that can fit larger substrate (e.g. 4'' silicon wafer), and magnetron head / PLD target + QCM 
 3. figure out what components are needed to install QCM
 
 ### Nanopositioner
