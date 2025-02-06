@@ -53,3 +53,4 @@
 ### side quests
 
 1. try steel -> alumina brazing with Cusil braze in Luke's vacuum furnace & test vacuum capabilities
+1. make the website look nicer (you can use my bolt.new)
