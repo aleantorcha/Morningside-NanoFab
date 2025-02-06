@@ -18,7 +18,7 @@
 2. more attempts at transparent MgO / YO
    - keep track of pressure/temp for each experiment and put in vials and label vials
    - ship to Max for CT measurements
-     
+   
 3. working towards transparent Yb:YCOB (Yb:YCa4O(BO3)3)
    1. can start with LiSr4(BO3)3: https://www.sciencedirect.com/science/article/abs/pii/S0272884222005156
 4. side quest: sintering cenosphere foam: https://www.semanticscholar.org/paper/Study-of-Lightweight-Ceramic-Matrix-Less-Syntactic-Eiduks-Drunka/3bc6e8e26cf50e9c2520c0d5dd94a80c7176b147
@@ -47,3 +47,9 @@
 ### Chip Design
 
 1. gdsfactory / klayout to design a simple transistor that can be made using our tools (+ wet etch, probably)
+
+
+
+### side quests
+
+1. try steel -> alumina brazing with Cusil braze in Luke's vacuum furnace & test vacuum capabilities
